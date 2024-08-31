@@ -1,5 +1,5 @@
 # CodSoft
-# Internship Project
+# Internship Project:
 
 This repository contains three C++ tasks completed during my internship:
 
